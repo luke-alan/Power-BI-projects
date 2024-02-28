@@ -31,3 +31,17 @@ Report Overview:
 Homepage
 ![image](https://github.com/luke-alan/Power-BI/assets/142893248/8d1b850c-1682-4749-975d-6767fb8ab30f)
 
+Finance view
+![image](https://github.com/luke-alan/Power-BI/assets/142893248/4427bd1b-1552-4bda-a739-2696274a26a2)
+
+Sales view
+![image](https://github.com/luke-alan/Power-BI/assets/142893248/9ff4a2f6-6219-49d7-9a36-235aadebe49b)
+
+Maeketing view
+![image](https://github.com/luke-alan/Power-BI/assets/142893248/eacda242-27c7-47b9-a156-8d2b9fbdd26d)
+
+Supply chain view
+![image](https://github.com/luke-alan/Power-BI/assets/142893248/73030ac5-a0f0-43f0-b908-76e12f454f1b)
+
+Executive view
+![image](https://github.com/luke-alan/Power-BI/assets/142893248/c9b65163-5218-49b8-80b5-891e139e8c19)
